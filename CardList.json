@@ -1,0 +1,710 @@
+{
+  "001": {
+    "id": "001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hex, Codemancer",
+        "type": false,
+        "cost": "4",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/001_hex%2C_codemancer.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hex, Codemancer",
+    "type": "Character",
+    "cost": "4",
+    "Faction": [
+      "Hacker"
+    ],
+    "Attack": "2",
+    "Defense": "4",
+    "Damage Type": "MF"
+  },
+  "002": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Admin",
+        "type": "Character",
+        "cost": "1",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/002_admin.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Admin",
+    "type": "Character",
+    "cost": "1",
+    "Faction": [
+      "Hacker"
+    ],
+    "Attack": "1",
+    "Defense": "1",
+    "Damage": "",
+    "Damage Type": "MF"
+  },
+  "003": {
+    "id": "003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Coder",
+        "type": "Character",
+        "cost": "1",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/003_coder.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Coder",
+    "type": "Character",
+    "cost": "1",
+    "Faction": [
+      "Hacker"
+    ],
+    "Attack": "1",
+    "Defense": "1",
+    "Damage Type": "MF"
+  },
+  "004": {
+    "id": "004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Script Kiddie",
+        "type": "Character",
+        "cost": "2",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/004_script_kiddie.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Script Kiddie",
+    "type": "Character",
+    "cost": "2",
+    "Faction": [
+      "Hacker"
+    ],
+    "Attack": "1",
+    "Defense": "1",
+    "Damage Type": "MF"
+  },
+  "005": {
+    "id": "005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Deep Diver",
+        "type": "Character",
+        "cost": "2",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/005_deep_diver.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Deep Diver",
+    "type": "Character",
+    "cost": "2",
+    "Faction": [
+      "Hacker"
+    ],
+    "Attack": "1",
+    "Defense": "1",
+    "Damage Type": "MF"
+  },
+  "006": {
+    "id": "006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Digital Spectre",
+        "type": "Character",
+        "cost": "2",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/006_digital_spectre.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Digital Spectre",
+    "type": "Character",
+    "cost": "2",
+    "Faction": [
+      "Hacker"
+    ],
+    "Attack": "1",
+    "Defense": "1",
+    "Damage Type": "MF"
+  },
+  "007": {
+    "id": "007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Black Hat",
+        "type": "Character",
+        "cost": "3",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/007_black_hat.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Black Hat",
+    "type": "Character",
+    "cost": "3",
+    "Faction": [
+      "Hacker"
+    ],
+    "Attack": "2",
+    "Defense": "3",
+    "Damage Type": "MF"
+  },
+  "008": {
+    "id": "008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Phantom OS",
+        "type": "Character",
+        "cost": "2",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/008_phantom_os.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Phantom OS",
+    "type": "Character",
+    "cost": "2",
+    "Faction": [
+      "Hacker",
+      "A.I."
+    ],
+    "Attack": "1",
+    "Defense": "1",
+    "Damage Type": "MF"
+  },
+  "009": {
+    "id": "009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Anima Proxy",
+        "type": "Character",
+        "cost": "3",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/009_anima_proxy.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Anima Proxy",
+    "type": "Character",
+    "cost": "3",
+    "Faction": [
+      "Hacker"
+    ],
+    "Attack": "2",
+    "Defense": "3",
+    "Damage Type": "MF"
+  },
+  "010": {
+    "id": "010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tagger",
+        "type": "Character",
+        "cost": "2",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/010_tagger.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tagger",
+    "type": "Character",
+    "cost": "2",
+    "Faction": [
+      "Hacker",
+      "Anarchist"
+    ],
+    "Attack": "1",
+    "Defense": "1",
+    "Damage Type": "MF"
+  },
+  "011": {
+    "id": "011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Serial Killer",
+        "type": "Character",
+        "cost": "3",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/011_serial_killer.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Serial Killer",
+    "type": "Character",
+    "cost": "3",
+    "Faction": [
+      "Hacker"
+    ],
+    "Attack": "3",
+    "Defense": "1",
+    "Damage Type": "MF"
+  },
+  "012": {
+    "id": "012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Prodigy",
+        "type": "Character",
+        "cost": "2",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/012_the_prodigy.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Prodigy",
+    "type": "Character",
+    "cost": "2",
+    "Faction": [
+      "Hacker"
+    ],
+    "Attack": "1",
+    "Defense": "2",
+    "Damage Type": "MF"
+  },
+  "013": {
+    "id": "013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nova, The White Rabbit",
+        "type": "Character",
+        "cost": "3",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/013_nova%2C_the_white_rabbit.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nova, The White Rabbit",
+    "type": "Character",
+    "cost": "3",
+    "Faction": [
+      "Wonderland",
+      "Hacker"
+    ],
+    "Attack": "2",
+    "Defense": "3",
+    "Damage Type": "MF"
+  },
+  "014": {
+    "id": "014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Blue Screen of Death",
+        "type": "Program",
+        "cost": "5",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/014_blue_screen_of_death.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Blue Screen of Death",
+    "type": "Program",
+    "cost": "5",
+    "Faction": [
+      "Hacker"
+    ],
+    "Attack": "",
+    "Defense": "",
+    "Damage Type": ""
+  },
+  "015": {
+    "id": "015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Overload Mk. 1",
+        "type": "Program",
+        "cost": "1",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/015_overload_mk._i.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Overload Mk. 1",
+    "type": "Program",
+    "cost": "1",
+    "Faction": [
+      "Hacker"
+    ],
+    "Attack": "",
+    "Defense": "",
+    "Damage Type": ""
+  },
+  "016": {
+    "id": "016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Overload Mk. 2",
+        "type": "Program",
+        "cost": "3",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/016_overload_mk._ii.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Overload Mk. 2",
+    "type": "Program",
+    "cost": "3",
+    "Faction": [
+      "Hacker"
+    ],
+    "Attack": "",
+    "Defense": "",
+    "Damage Type": ""
+  },
+  "017": {
+    "id": "017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "System Error",
+        "type": "Program",
+        "cost": "4",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/017_system_error.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "System Error",
+    "type": "Program",
+    "cost": "4",
+    "Faction": [
+      "Hacker"
+    ],
+    "Attack": "",
+    "Defense": "",
+    "Damage Type": ""
+  },
+  "018": {
+    "id": "018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Quantum Encryption",
+        "type": "Program",
+        "cost": "3",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/018_quantum_encryption.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Quantum Encryption",
+    "type": "Program",
+    "cost": "3",
+    "Faction": [
+      "Hacker"
+    ],
+    "Attack": "",
+    "Defense": "",
+    "Damage Type": ""
+  },
+  "019": {
+    "id": "019",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Net",
+        "type": "Program",
+        "cost": "4",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/019_the_net_fade.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Net",
+    "type": "Program",
+    "cost": "4",
+    "Faction": [
+      "Hacker"
+    ],
+    "Attack": "",
+    "Defense": "",
+    "Damage Type": ""
+  },
+  "020": {
+    "id": "020",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Grid",
+        "type": "Program",
+        "cost": "2",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/020_the_grid.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Grid",
+    "type": "Program",
+    "cost": "2",
+    "Faction": [
+      "Hacker"
+    ],
+    "Attack": "",
+    "Defense": "",
+    "Damage Type": ""
+  },
+  "021": {
+    "id": "021",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hackathon",
+        "type": "Program",
+        "cost": "2",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/021_hackathon.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hackathon",
+    "type": "Program",
+    "cost": "2",
+    "Faction": [
+      "Hacker"
+    ],
+    "Attack": "",
+    "Defense": "",
+    "Damage Type": ""
+  },
+  "022": {
+    "id": "022",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Phishing",
+        "type": "Program",
+        "cost": "2",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/022_phishing.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Phishing",
+    "type": "Program",
+    "cost": "2",
+    "Faction": [
+      "Hacker"
+    ],
+    "Attack": "",
+    "Defense": "",
+    "Damage Type": ""
+  },
+  "023": {
+    "id": "023",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Binary Blast",
+        "type": "Program",
+        "cost": "1",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/023_binary_blast.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Binary Blast",
+    "type": "Program",
+    "cost": "1",
+    "Faction": [
+      "Hacker"
+    ],
+    "Attack": "",
+    "Defense": "",
+    "Damage Type": ""
+  },
+  "024": {
+    "id": "024",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hyperclock",
+        "type": "Program",
+        "cost": "1",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/024_hyperclock.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hyperclock",
+    "type": "Program",
+    "cost": "1",
+    "Faction": [
+      "Hacker"
+    ],
+    "Attack": "",
+    "Defense": "",
+    "Damage Type": ""
+  },
+  "025": {
+    "id": "025",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Firewall",
+        "type": "Program",
+        "cost": "2",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/025_firewall.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Firewall",
+    "type": "Program",
+    "cost": "2",
+    "Faction": [
+      "Hacker"
+    ],
+    "Attack": "",
+    "Defense": "",
+    "Damage Type": ""
+  },
+  "026": {
+    "id": "026",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Static Blast",
+        "type": "Program",
+        "cost": "2",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/026_static_blast.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Static Blast",
+    "type": "Program",
+    "cost": "2",
+    "Faction": [
+      "Hacker"
+    ],
+    "Attack": "",
+    "Defense": "",
+    "Damage Type": ""
+  },
+  "027": {
+    "id": "027",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cortex Crab",
+        "type": "Gear",
+        "cost": "3",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/027_cortex_crab.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cortex Crab",
+    "type": "Gear",
+    "cost": "3",
+    "Faction": [
+      "Hacker"
+    ],
+    "Attack": "",
+    "Defense": "",
+    "Damage Type": ""
+  },
+  "028": {
+    "id": "028",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fatal Error 75",
+        "type": "Program",
+        "cost": "2",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards//028_fatal_error_75.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fatal Error 75",
+    "type": "Program",
+    "cost": "2",
+    "Faction": [
+      "Hacker"
+    ],
+    "Attack": "",
+    "Defense": "",
+    "Damage Type": ""
+  },
+  "029": {
+    "id": "029",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rubber Ducky",
+        "type": "Program",
+        "cost": "2",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards//029_rubber_ducky.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rubber Ducky",
+    "type": "Program",
+    "cost": "2",
+    "Faction": [
+      "Hacker"
+    ],
+    "Attack": "",
+    "Defense": "",
+    "Damage Type": ""
+  },
+  "030": {
+    "id": "030",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Memory Leak",
+        "type": "Program",
+        "cost": "2",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/030_memory_leak.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Memory Leak",
+    "type": "Program",
+    "cost": "2",
+    "Faction": [
+      "Hacker"
+    ],
+    "Attack": "",
+    "Defense": "",
+    "Damage Type": ""
+  },
+  "031": {
+    "id": "031",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Power Spike",
+        "type": "Program",
+        "cost": "2",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/031_power_spike.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Power Spike",
+    "type": "Program",
+    "cost": "2",
+    "Faction": [
+      "Hacker"
+    ],
+    "Attack": "",
+    "Defense": "",
+    "Damage Type": ""
+  },
+  "032": {
+    "id": "032",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Redirect",
+        "type": "Program",
+        "cost": "2",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/032_redirect.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Redirect",
+    "type": "Program",
+    "cost": "2",
+    "Faction": [
+      "Hacker"
+    ],
+    "Attack": "",
+    "Defense": "",
+    "Damage Type": ""
+  }
+}
