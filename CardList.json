@@ -1,11 +1,119 @@
 {
+  "235": {
+    "id": "235",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Firestarter",
+        "type": "Mainframe",
+        "cost": "",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/235_firestarter.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Firestarter",
+    "type": "Mainframe",
+    "cost": "",
+    "Faction": [
+      "Hacker"
+    ],
+    "Attack": "",
+    "Defense": "",
+    "Damage Type": ""
+  },
+  "236": {
+    "id": "236",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Deepnet",
+        "type": "Mainframe",
+        "cost": "",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/236_deepnet.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Deepnet",
+    "type": "Mainframe",
+    "cost": "",
+    "Faction": [
+      "Hacker"
+    ],
+    "Attack": "",
+    "Defense": "",
+    "Damage Type": ""
+  },
+  "237": {
+    "id": "237",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Synthetix",
+        "type": "Mainframe",
+        "cost": "",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/237_synthetix.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Synthetix",
+    "type": "Mainframe",
+    "cost": "",
+    "Faction": [
+      "Cybernetic"
+    ],
+    "Attack": "",
+    "Defense": "",
+    "Damage Type": ""
+  },
+  "238": {
+    "id": "238",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gearhead",
+        "type": "Mainframe",
+        "cost": "",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/238_gearhead.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gearhead",
+    "type": "Mainframe",
+    "cost": "",
+    "Faction": [
+      "Cybernetic"
+    ],
+    "Attack": "",
+    "Defense": "",
+    "Damage Type": ""
+  },
+  "255": {
+    "id": "255",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Basic RAM",
+        "type": "RAM",
+        "cost": "",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/255_RAM_basic.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Basic RAM",
+    "type": "RAM",
+    "cost": "",
+    "Faction": false,
+    "Attack": "",
+    "Defense": "",
+    "Damage Type": ""
+  },
   "001": {
     "id": "001",
     "isToken": false,
     "face": {
       "front": {
         "name": "Hex, Codemancer",
-        "type": false,
+        "type": "Mainframe",
         "cost": "4",
         "image": "https://padamsonclark.github.io/Neuroscape/cards/001_hex%2C_codemancer.png",
         "isHorizontal": false
@@ -41,7 +149,6 @@
     ],
     "Attack": "1",
     "Defense": "1",
-    "Damage": "",
     "Damage Type": "MF"
   },
   "003": {
@@ -702,6 +809,627 @@
     "cost": "2",
     "Faction": [
       "Hacker"
+    ],
+    "Attack": "",
+    "Defense": "",
+    "Damage Type": ""
+  },
+  "033": {
+    "id": "033",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Scrapper",
+        "type": "Character",
+        "cost": "1",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/033_scrapper.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Scrapper",
+    "type": "Character",
+    "cost": "1",
+    "Faction": [
+      "Cybernetic"
+    ],
+    "Attack": "1",
+    "Defense": "1",
+    "Damage Type": "BF"
+  },
+  "034": {
+    "id": "034",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dumpster Diver",
+        "type": "Character",
+        "cost": "1",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/034_dumpster_diver.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dumpster Diver",
+    "type": "Character",
+    "cost": "1",
+    "Faction": [
+      "Cybernetic"
+    ],
+    "Attack": "1",
+    "Defense": "1",
+    "Damage Type": "BF"
+  },
+  "035": {
+    "id": "035",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lugnut",
+        "type": "Character",
+        "cost": "1",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/035_lug_nut.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lugnut",
+    "type": false,
+    "cost": 0,
+    "Faction": [
+      "Cybernetic",
+      "Animal"
+    ],
+    "Attack": "1",
+    "Defense": "2",
+    "Damage Type": "BF"
+  },
+  "036": {
+    "id": "036",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Virtual Kid",
+        "type": "Character",
+        "cost": "1",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/036_virtual_kid.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Virtual Kid",
+    "type": "Character",
+    "cost": "1",
+    "Faction": [
+      "Cybernetic"
+    ],
+    "Attack": "1",
+    "Defense": "2",
+    "Damage Type": "BF"
+  },
+  "037": {
+    "id": "037",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Blackout Boys",
+        "type": "Character",
+        "cost": "2",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/037_blackout_boys.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Blackout Boys",
+    "type": "Character",
+    "cost": "2",
+    "Faction": [
+      "Cybernetic"
+    ],
+    "Attack": "1",
+    "Defense": "2",
+    "Damage Type": "BF"
+  },
+  "038": {
+    "id": "038",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cryoblade Assassin",
+        "type": "Character",
+        "cost": "2",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/038_cryoblade_assassin.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cryoblade Assassin",
+    "type": "Character",
+    "cost": "2",
+    "Faction": [
+      "Cybernetic"
+    ],
+    "Attack": "2",
+    "Defense": "2",
+    "Damage Type": "BF"
+  },
+  "039": {
+    "id": "039",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Plug",
+        "type": "Character",
+        "cost": "2",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/039_the_plug.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Plug",
+    "type": "Character",
+    "cost": "2",
+    "Faction": [
+      "Cybernetic"
+    ],
+    "Attack": "1",
+    "Defense": "1",
+    "Damage Type": "BF"
+  },
+  "040": {
+    "id": "040",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Iron Maiden",
+        "type": "Character",
+        "cost": "3",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/040_iron_maiden.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Iron Maiden",
+    "type": "Character",
+    "cost": "3",
+    "Faction": [
+      "Cybernetic",
+      "Thrasher"
+    ],
+    "Attack": "2",
+    "Defense": "4",
+    "Damage Type": "BF"
+  },
+  "041": {
+    "id": "041",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rogue Valkyrie",
+        "type": "Character",
+        "cost": "4",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/041_rogue_valkyrie.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rogue Valkyrie",
+    "type": "Character",
+    "cost": "4",
+    "Faction": [
+      "Cybernetic",
+      "Mech"
+    ],
+    "Attack": "3",
+    "Defense": "5",
+    "Damage Type": "BF"
+  },
+  "042": {
+    "id": "042",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Boonyen, Wardriver",
+        "type": "Character",
+        "cost": "6",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/042_boonyen,_wardriver.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Boonyen, Wardriver",
+    "type": "Character",
+    "cost": "6",
+    "Faction": [
+      "Cybernetic",
+      "Animal"
+    ],
+    "Attack": "7",
+    "Defense": "8",
+    "Damage Type": "BF"
+  },
+  "043": {
+    "id": "043",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Back Alley Bruisers",
+        "type": "Character",
+        "cost": "4",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/043_back_alley_bruisers.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Back Alley Bruisers",
+    "type": "Character",
+    "cost": "4",
+    "Faction": [
+      "Cybernetic"
+    ],
+    "Attack": "5",
+    "Defense": "4",
+    "Damage Type": "BF"
+  },
+  "044": {
+    "id": "044",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Faceless Oni",
+        "type": "Character",
+        "cost": "4",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/044_faceless_oni.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Faceless Oni",
+    "type": "Character",
+    "cost": "4",
+    "Faction": [
+      "Cybernetic"
+    ],
+    "Attack": "4",
+    "Defense": "3",
+    "Damage Type": "BF"
+  },
+  "045": {
+    "id": "045",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lasersaw Berserker",
+        "type": "Character",
+        "cost": "4",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/045_lasersaw_berserker.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lasersaw Berserker",
+    "type": "Character",
+    "cost": "4",
+    "Faction": [
+      "Cybernetic"
+    ],
+    "Attack": "5",
+    "Defense": "2",
+    "Damage Type": "BF"
+  },
+  "046": {
+    "id": "046",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Metal Head",
+        "type": "Character",
+        "cost": "5",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/046_metal_head.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Metal Head",
+    "type": "Character",
+    "cost": "5",
+    "Faction": [
+      "Cybernetic",
+      "Thrasher"
+    ],
+    "Attack": "6",
+    "Defense": "7",
+    "Damage Type": "BF"
+  },
+  "047": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Arc, Circuit Breaker",
+        "type": "Character",
+        "cost": "5",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/047_arc%2C_circuit_breaker.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Arc, Circuit Breaker",
+    "type": "Character",
+    "cost": "5",
+    "Faction": [
+      "Cybernetic"
+    ],
+    "Attack": "6",
+    "Defense": "5",
+    "Damage Type": "BF"
+  },
+  "048": {
+    "id": "048",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Exterminator",
+        "type": "Character",
+        "cost": "3",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/048_exterminator.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Exterminator",
+    "type": "Character",
+    "cost": "3",
+    "Faction": [
+      "Cybernetic"
+    ],
+    "Attack": "1",
+    "Defense": "1",
+    "Damage Type": "BF"
+  },
+  "049": {
+    "id": "049",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Stim Pack",
+        "type": "Program",
+        "cost": "1",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/049_stim_pack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stim Pack",
+    "type": "Program",
+    "cost": "1",
+    "Faction": [
+      "Cybernetic"
+    ],
+    "Attack": "",
+    "Defense": "",
+    "Damage Type": ""
+  },
+  "050": {
+    "id": "050",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Time",
+        "type": "Program",
+        "cost": "3",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/050_time.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Time",
+    "type": "Program",
+    "cost": "3",
+    "Faction": [
+      "Cybernetic"
+    ],
+    "Attack": "",
+    "Defense": "",
+    "Damage Type": ""
+  },
+  "051": {
+    "id": "051",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Claritex",
+        "type": "Program",
+        "cost": "1",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/051_claritex.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Claritex",
+    "type": "Program",
+    "cost": "1",
+    "Faction": [
+      "Cybernetic"
+    ],
+    "Attack": "",
+    "Defense": "",
+    "Damage Type": ""
+  },
+  "052": {
+    "id": "052",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Megaroids, Kiwi Krush",
+        "type": "Program",
+        "cost": "2",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/052_megaroids,_kiwi_krush.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Megaroids, Kiwi Krush",
+    "type": "Program",
+    "cost": "2",
+    "Faction": [
+      "Cybernetic"
+    ],
+    "Attack": "",
+    "Defense": "",
+    "Damage Type": ""
+  },
+  "053": {
+    "id": "053",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Redline",
+        "type": "Program",
+        "cost": "2",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/053_redline.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Redline",
+    "type": "Program",
+    "cost": "2",
+    "Faction": [
+      "Cybernetic"
+    ],
+    "Attack": "",
+    "Defense": "",
+    "Damage Type": ""
+  },
+  "054": {
+    "id": "054",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Flux Cannon",
+        "type": "Gear",
+        "cost": "2",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/054_flux_cannon.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Flux Cannon",
+    "type": "Gear",
+    "cost": "2",
+    "Faction": [
+      "Cybernetic"
+    ],
+    "Attack": "",
+    "Defense": "",
+    "Damage Type": ""
+  },
+  "055": {
+    "id": "055",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spinal Splitter",
+        "type": "Gear",
+        "cost": "3",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/055_spinal_splitter.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Spinal Splitter",
+    "type": "Gear",
+    "cost": "3",
+    "Faction": [
+      "Cybernetic"
+    ],
+    "Attack": "",
+    "Defense": "",
+    "Damage Type": ""
+  },
+  "056": {
+    "id": "056",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Railgun",
+        "type": "Gear",
+        "cost": "3",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/056_railgun.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Railgun",
+    "type": "Gear",
+    "cost": "3",
+    "Faction": [
+      "Cybernetic"
+    ],
+    "Attack": "",
+    "Defense": "",
+    "Damage Type": ""
+  },
+  "057": {
+    "id": "057",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Riot Blade",
+        "type": "Gear",
+        "cost": "1",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/057_riot_blade.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Riot Blade",
+    "type": "Gear",
+    "cost": "1",
+    "Faction": [
+      "Cybernetic"
+    ],
+    "Attack": "",
+    "Defense": "",
+    "Damage Type": ""
+  },
+  "058": {
+    "id": "058",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Drive Saw",
+        "type": "Gear",
+        "cost": "1",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/058_drive_saw.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Drive Saw",
+    "type": "Gear",
+    "cost": "1",
+    "Faction": [
+      "Cybernetic"
+    ],
+    "Attack": "",
+    "Defense": "",
+    "Damage Type": ""
+  },
+  "059": {
+    "id": "059",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Knux",
+        "type": "Gear",
+        "cost": "2",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/059_knux.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Knux",
+    "type": "Gear",
+    "cost": "2",
+    "Faction": [
+      "Cybernetic"
+    ],
+    "Attack": "",
+    "Defense": "",
+    "Damage Type": ""
+  },
+  "060": {
+    "id": "060",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Snatcher",
+        "type": "Program",
+        "cost": "3",
+        "image": "https://padamsonclark.github.io/Neuroscape/cards/060_snatcher.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Snatcher",
+    "type": "Gear",
+    "cost": "3",
+    "Faction": [
+      "Cybernetic"
     ],
     "Attack": "",
     "Defense": "",
