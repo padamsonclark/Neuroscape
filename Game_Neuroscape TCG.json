@@ -9,7 +9,7 @@
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://padamsonclark.github.io/Neuroscape/CardList.json",
-    "cardBack": "https://padamsonclark.github.io/Neuroscape/_CARD_BACK_WM.png"
+    "cardBack": "https://padamsonclark.github.io/Neuroscape/CARDBACK_WM.png"
   },
   "deckBuilding": {
     "mainFilters": [],
