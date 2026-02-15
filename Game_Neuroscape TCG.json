@@ -304,7 +304,7 @@
           },
           "Mana": {
             "title": "Mana",
-            "isHidden": "yes",
+            "isHidden": "no",
             "height": "SMALL",
             "alignment": "START",
             "opponentAlignment": false,
@@ -390,7 +390,7 @@
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "Main Frame",
+            "displayedTitle": "MainFrame",
             "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,
