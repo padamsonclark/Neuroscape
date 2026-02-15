@@ -13,7 +13,13 @@
   },
   "deckBuilding": {
     "mainFilters": [],
-    "formats": []
+    "formats": [
+      {
+        "title": "Classic",
+        "gameplay": "Classic",
+        "customCategories": []
+      }
+    ]
   },
   "gameplay": {
     "Classic": {
@@ -265,7 +271,7 @@
           "Board": {
             "title": "Board",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -294,7 +300,7 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-		  "RAM": {
+          "RAM": {
             "title": "RAM",
             "isHidden": "yes",
             "height": "SMALL",
@@ -309,8 +315,8 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
-		  }
-		}
+          }
+        }
       }
     }
   }
