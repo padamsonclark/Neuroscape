@@ -5,14 +5,14 @@
     "face": {
       "front": {
         "name": "Firestarter",
-        "type": "Mainframe",
+        "type": "MainFrame",
         "cost": "",
         "image": "https://padamsonclark.github.io/Neuroscape/cards/235_firestarter.png",
         "isHorizontal": false
       }
     },
     "name": "Firestarter",
-    "type": "Mainframe",
+    "type": "MainFrame",
     "cost": "",
     "Faction": [
       "Hacker"
@@ -27,14 +27,14 @@
     "face": {
       "front": {
         "name": "Deepnet",
-        "type": "Mainframe",
+        "type": "MainFrame",
         "cost": "",
         "image": "https://padamsonclark.github.io/Neuroscape/cards/236_deepnet.png",
         "isHorizontal": false
       }
     },
     "name": "Deepnet",
-    "type": "Mainframe",
+    "type": "MainFrame",
     "cost": "",
     "Faction": [
       "Hacker"
@@ -49,14 +49,14 @@
     "face": {
       "front": {
         "name": "Synthetix",
-        "type": "Mainframe",
+        "type": "MainFrame",
         "cost": "",
         "image": "https://padamsonclark.github.io/Neuroscape/cards/237_synthetix.png",
         "isHorizontal": false
       }
     },
     "name": "Synthetix",
-    "type": "Mainframe",
+    "type": "MainFrame",
     "cost": "",
     "Faction": [
       "Cybernetic"
@@ -71,14 +71,14 @@
     "face": {
       "front": {
         "name": "Gearhead",
-        "type": "Mainframe",
+        "type": "MainFrame",
         "cost": "",
         "image": "https://padamsonclark.github.io/Neuroscape/cards/238_gearhead.png",
         "isHorizontal": false
       }
     },
     "name": "Gearhead",
-    "type": "Mainframe",
+    "type": "MainFrame",
     "cost": "",
     "Faction": [
       "Cybernetic"
